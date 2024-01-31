@@ -1,0 +1,1 @@
+print("Rinat Rafikov, SE-01")
